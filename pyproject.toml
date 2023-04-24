@@ -20,6 +20,9 @@ scipy = "^1.10.1"
 jupyter-dash = "^0.4.2"
 
 
+[tool.poetry.group.dev.dependencies]
+mypy = "^1.2.0"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
