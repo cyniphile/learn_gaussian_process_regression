@@ -1,4 +1,7 @@
 # The First Blog Post You Should Read about Gaussian Processes
+
+NOTE: This post has been ported to marimo and is viewable directly at https://www.lukeschiefelbein.com/marimo-blog/apps/Intro_to_Gaussian_Process_Regression.html
+
 An interactive introduction to Gaussian Process Regression
 
 ## Quickstart
